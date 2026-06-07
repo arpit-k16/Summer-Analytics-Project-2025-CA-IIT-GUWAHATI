@@ -258,9 +258,8 @@ This project was completed under:
 GitHub: arpit-k16
 
 
-
 **Shikhar Bhandari**
-github: bhandarishikhar7313-cell
+GitHub: bhandarishikhar7313-cell
 
 ---
 
